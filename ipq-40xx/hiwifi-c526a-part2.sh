@@ -58,6 +58,7 @@ CONFIG_PACKAGE_libopus=y
 CONFIG_PACKAGE_libx264=y
 CONFIG_PACKAGE_ffmpeg=y
 CONFIG_PACKAGE_ffprobe=y
+CONFIG_PACKAGE_pptpd=y
 EOF
 
 cat >> .config <<EOF
